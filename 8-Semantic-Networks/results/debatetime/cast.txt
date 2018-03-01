@@ -1,0 +1,6 @@
+agent.num	agent.name
+1	"Trump"
+2	"Holt"
+3	"Clinton"
+4	"Audience"
+5	"CANDIDATES"
